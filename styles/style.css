@@ -246,6 +246,7 @@ button{
 footer{
     background: #070211;
     width: 100%;
+    margin-left: 10px;
     height: auto;
 }
 .footer h5{
