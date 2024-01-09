@@ -44,3 +44,34 @@ p{
     font-weight: 900;
 }
 
+/* Main Styles */
+
+/* Offer Related Styles */
+.offer .offer-description h1{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 85px;
+    font-weight: 700;
+    margin-bottom: 45px;
+}
+.offer .offer-description h4{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.offer .offer-description h2{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.offer-image{
+    display: flex;
+    justify-content: center;
+}
